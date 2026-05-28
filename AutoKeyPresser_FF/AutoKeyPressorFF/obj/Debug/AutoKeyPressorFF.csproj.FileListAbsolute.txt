@@ -1,0 +1,14 @@
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\AutoKeyPressorFF.csproj.AssemblyReference.cache
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\AutoKeyPressorFF.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\AutoKeyPressorFF.Main.resources
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\AutoKeyPressorFF.Properties.Resources.resources
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\AutoKeyPressorFF.Main.en.resources
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\AutoKeyPressorFF.csproj.GenerateResource.cache
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\AutoKeyPressorFF.csproj.CoreCompileInputs.cache
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\bin\Debug\AutoKeyPressorFF.exe.config
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\bin\Debug\AutoKeyPressorFF.exe
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\bin\Debug\AutoKeyPressorFF.pdb
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\bin\Debug\en\AutoKeyPressorFF.resources.dll
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\en\AutoKeyPressorFF.resources.dll
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\AutoKeyPressorFF.exe
+C:\Users\KHALID\Desktop\GitHub\C#\AutoKeyPresser_FF\AutoKeyPressorFF\obj\Debug\AutoKeyPressorFF.pdb

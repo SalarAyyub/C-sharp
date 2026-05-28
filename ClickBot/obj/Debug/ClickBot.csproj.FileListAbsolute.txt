@@ -1,0 +1,12 @@
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\bin\Debug\ClickBot.exe.config
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\bin\Debug\ClickBot.exe
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\bin\Debug\ClickBot.pdb
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\obj\Debug\ClickBot.csproj.AssemblyReference.cache
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\obj\Debug\ClickBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\obj\Debug\ClickBot.Form1.resources
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\obj\Debug\ClickBot.Properties.Resources.resources
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\obj\Debug\ClickBot.csproj.GenerateResource.cache
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\obj\Debug\ClickBot.csproj.CoreCompileInputs.cache
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\obj\Debug\ClickBot.exe
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\obj\Debug\ClickBot.pdb
+C:\Users\KHALID\Desktop\ClickBot\ClickBot\obj\Debug\ClickBot.Main.resources
