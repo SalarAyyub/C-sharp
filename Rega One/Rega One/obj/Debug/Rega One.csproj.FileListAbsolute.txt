@@ -1,0 +1,11 @@
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\bin\Debug\Rega One.exe.config
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\bin\Debug\Rega One.exe
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\bin\Debug\Rega One.pdb
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\obj\Debug\Rega One.csproj.AssemblyReference.cache
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\obj\Debug\Rega One.csproj.SuggestedBindingRedirects.cache
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\obj\Debug\Rega_One.Main.resources
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\obj\Debug\Rega_One.Properties.Resources.resources
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\obj\Debug\Rega One.csproj.GenerateResource.cache
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\obj\Debug\Rega One.csproj.CoreCompileInputs.cache
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\obj\Debug\Rega One.exe
+C:\Users\KHALID\Desktop\GitHub\C#\Rega One\Rega One\obj\Debug\Rega One.pdb
